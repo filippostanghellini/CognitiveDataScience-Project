@@ -1,0 +1,17 @@
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+
+# Cartelle virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# File di configurazione con variabili segrete
+.env
+.env.*
+
+.gitattributes
